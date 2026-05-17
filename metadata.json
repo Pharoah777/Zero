@@ -1,0 +1,8 @@
+{
+  "name": "Zero: Marketing & World Hub",
+  "description": "An interactive marketing launch plan and world guide for the sci-fi novel Zero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
